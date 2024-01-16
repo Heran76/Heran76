@@ -18,3 +18,9 @@ Con un compromiso constante con la innovación y la mejora continua, estoy emoci
 
 <h2>🌱Actualmente estoy aprendiendo</h2>
 <p>Me encuentro en plena actualización de conceptos mediante un curso de profesionalidad en desarrollo web, aprendiendo nuevas tecnologia</p>
+<h2>💬 he sido entrenado en/h2>
+- HTML5
+- CSS3
+- javascript
+- React
+
