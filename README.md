@@ -6,9 +6,8 @@
                         
 </div>       
 <h1 align='center'> Hola, Soy Heran76 </h1>  
-**Heran76/Heran76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Heran76/Heran76** 
 
-Here are some ideas to get you started:
 
 - 🔭 ¿Quién soy yo en pocas palabras...
 - un apasionado del desarrollo web con un enfoque distintivo en la creación de experiencias funcionales. Mi dominio de las tecnologías clave como HTML, CSS y JavaScript se complementa con una sólida experiencia en la elaboración de proyectos de front-end que destacan por su excepcional usabilidad y diseño UX/UI.
