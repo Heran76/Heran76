@@ -18,7 +18,8 @@ Mi habilidad para fusionar la estética con la funcionalidad se refleja en mi tr
 Además de mi destreza en el desarrollo web, tengo experiencia en la creación y gestión de la imagen corporativa. Mi visión va más allá de la codificación; me esfuerzo por construir identidades visuales coherentes que reflejen la esencia de la marca y generen una conexión auténtica con el público.
 
 Con un compromiso constante con la innovación y la mejora continua, estoy emocionado por seguir contribuyendo al mundo del desarrollo web y diseño, creando soluciones que no solo cumplen con las expectativas técnicas, sino que también elevan la calidad estética y funcional de cada proyecto.
-- 🌱 I’m currently learning ...
+- 🌱 Actualmente estoy aprendiendo.....
+- Me encuentro en plena actualización de conceptos mediante un curso de profesionalidad en desarrollo web, aprendiendo nuevas tecnologia 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -27,9 +28,3 @@ Con un compromiso constante con la innovación y la mejora continua, estoy emoci
 - ⚡ Fun fact: ...
 
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
-<img width=100% title="Desarrolloweb" alt="Desarrolloweb" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=[DESARROLLO_WEB]&textBg=false"/>
-                  
-                        
-</div>       
-<h1 align='center'> Hola, Soy Heran76 </h1>   
