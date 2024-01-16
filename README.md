@@ -17,4 +17,4 @@ Además de mi destreza en el desarrollo web, tengo experiencia en la creación y
 Con un compromiso constante con la innovación y la mejora continua, estoy emocionado por seguir contribuyendo al mundo del desarrollo web y diseño, creando soluciones que no solo cumplen con las expectativas técnicas, sino que también elevan la calidad estética y funcional de cada proyecto.
 
 <h2>🌱Actualmente estoy aprendiendo</h2>
-<p>Me encuentro en plena actualización de conceptos mediante un curso de profesionalidad en desarrollo web, aprendiendo nuevas tecnologia/p>
+<p>Me encuentro en plena actualización de conceptos mediante un curso de profesionalidad en desarrollo web, aprendiendo nuevas tecnologia</p>
