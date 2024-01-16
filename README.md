@@ -21,8 +21,7 @@ Here are some ideas to get you started:
                         
 </div>       
 <h1 align='center'> Hola, Soy Heran76 </h1>   
-### Desarrollador_web !! 
-🔭 ¿Quién soy yo en pocas palabras...?
+### Desarrollador_web !!##  ¿Quién soy yo en pocas palabras...?
 Soy un apasionado del desarrollo web con un enfoque distintivo en la creación de experiencias funcionales. Mi dominio de las tecnologías clave como HTML, CSS y JavaScript se complementa con una sólida experiencia en la elaboración de proyectos de front-end que destacan por su excepcional usabilidad y diseño UX/UI.
 
 Mi habilidad para fusionar la estética con la funcionalidad se refleja en mi trayectoria en diseño web, donde he llevado a cabo proyectos que no solo cumplen con estándares técnicos, sino que también crean interacciones significativas para el usuario. Desde la conceptualización hasta la implementación, mi enfoque integral abarca cada detalle para asegurar una experiencia visualmente atractiva y eficaz.
