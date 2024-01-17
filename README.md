@@ -24,7 +24,7 @@ Con un compromiso constante con la innovación y la mejora continua, estoy emoci
 <li>CS3</li>
 <li>JAVASCRIPT</li>
 <li>REACT</li>
-<li>bootstrap/li>
+<li>bootstrap</li>
 </ul>
 
 
