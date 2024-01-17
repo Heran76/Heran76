@@ -23,7 +23,8 @@ Con un compromiso constante con la innovación y la mejora continua, estoy emoci
 <li>HML5</li>
 <li>CS3</li>
 <li>JAVASCRIPT</li>
-<LI>REACT</LI>
+<li>REACT</li>
+<li>bootstrap/li>
 </ul>
 
 
