@@ -25,6 +25,7 @@ Con un compromiso constante con la innovación y la mejora continua, estoy emoci
 <li>JAVASCRIPT</li>
 <li>REACT</li>
 <li>Bootstrap</li>
+<li>Wordpress</li>
 </ul>
 
 
