@@ -5,7 +5,7 @@
                   
                         
 </div>       
-<h1 align='center'> Hola, Soy Antonio Heredia Morante  (Heran76)</Heran76> </h1> <h3 align='center'>Estudiante en 42 Madrid Telefònica</h3>
+<h1 align='center'>Soy Antonio Heredia Morante  (Heran76)</Heran76> </h1> <h3 align='center'>Estudiante en 42 Madrid Telefònica</h3>
 
 <h2>🔭 ¿Quién soy yo en pocas palabras?</h2>
 - Un apasionado del desarrollo web con un enfoque distintivo en la creación de experiencias funcionales. Mi dominio de las tecnologías clave como HTML, CSS y JavaScript se complementa con una sólida experiencia en la elaboración de proyectos de front-end que destacan por su excepcional usabilidad y diseño UX/UI.
