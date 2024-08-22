@@ -17,7 +17,7 @@ Además de mi destreza en el desarrollo web, tengo experiencia en la creación y
 Con un compromiso constante con la innovación y la mejora continua, estoy emocionado por seguir contribuyendo al mundo del desarrollo web y diseño, creando soluciones que no solo cumplen con las expectativas técnicas, sino que también elevan la calidad estética y funcional de cada proyecto.
 
 <h2>🌱En continua evolución</h2>
-<p>Me encuentro en plena actualización de conceptos mediante un curso de profesionalidad en desarrollo web, aprendiendo nuevas tecnologia</p>
+<p>Después de haber finalizado con éxito el de grado de profesionalidad en desarrollo web rama de informatica y comunicación, estoy en pleno proceso de actualización de conceptos y tecnologías. En septiembre, comenzaré una nueva etapa formativa en 42 Madrid, donde seguiré ampliando mis habilidades y conocimientos en el ámbito de la programación./p>
 <h2>💬 Tecnologías</h2>
 <ul>
 <li>HML5</li>
