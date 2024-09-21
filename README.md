@@ -6,8 +6,8 @@
                         
 </div>       
 <h1 align='center'>Soy Antonio Heredia Morante  (Heran76)</Heran76> </h1> <h3 align='center'>Estudiante en </h3>
-<div align='center' background-color=white>
-  <img width="300" height="69" src="https://www.42madrid.com/wp-content/uploads/2019/10/logo_menu-1-300x69.png"/>
+<div align='center' style='background-color: black;'>
+  <img width="500" height="200" src="https://www.42madrid.com/wp-content/uploads/2020/05/42-Madrid-Quiz-1366x621.jpg"/>
 </div>
 
 <h2>🔭 ¿Quién soy yo en pocas palabras?</h2>
@@ -25,6 +25,7 @@ Con un compromiso constante con la innovación y la mejora continua, estoy emoci
 
 |                 |                                                                                                                                   |
 | -------------   | ----------------------------------------------------------------------------------------------------------------------------------|
+| C // C++        |<img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>|
 | HTML5           |<img width="48" height="48" src="https://img.icons8.com/fluency/48/html-5.png" alt="html-5"/>
 | CSS3            |<img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>|
 | Javascript      |<img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>|
