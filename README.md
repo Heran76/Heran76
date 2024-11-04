@@ -22,10 +22,10 @@ Con un compromiso constante con la innovación y la mejora continua, estoy emoci
 |                 |                                                                                                                                   |
 | -------------   | ----------------------------------------------------------------------------------------------------------------------------------|
 | C // C++        |<img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>|
+| Python          |<img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="javascript"/>|
+| Javascript      |<img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>|
 | HTML5           |<img width="48" height="48" src="https://img.icons8.com/fluency/48/html-5.png" alt="html-5"/>
 | CSS3            |<img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>|
-| Javascript      |<img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>|
-| Python          |<img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="javascript"/>|
 | React           |<img width="48" height="48" src="https://img.icons8.com/officel/80/react.png" alt="react"/>|
 | Boostrap        |<img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>|
 | Wordpress       |<img width="48" height="48" src="https://img.icons8.com/color/48/wordpress.png" alt="wordpress"/>|
