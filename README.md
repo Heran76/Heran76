@@ -4,11 +4,7 @@
 <img width=100% title="Desarrolloweb" alt="Desarrolloweb" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=[DESARROLLO_WEB]&textBg=false"/>
                   
                         
-</div>       
-<h1 align='center'>Soy Antonio Heredia Morante  (Heran76)</Heran76> </h1> <h3 align='center'>Estudiante en </h3>
-<div align='center' style='background-color: black;'>
-  <img width="500" height="200" src="https://www.42madrid.com/wp-content/uploads/2020/05/42-Madrid-Quiz-1366x621.jpg"/>
-</div>
+
 
 <h2>🔭 ¿Quién soy yo en pocas palabras?</h2>
 - Un apasionado del desarrollo web con un enfoque distintivo en la creación de experiencias funcionales. Mi dominio de las tecnologías clave como HTML, CSS y JavaScript se complementa con una sólida experiencia en la elaboración de proyectos de front-end que destacan por su excepcional usabilidad y diseño UX/UI.
