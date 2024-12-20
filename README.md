@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
+
 <img width=100% title="Desarrolloweb" alt="Desarrolloweb" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=[DESARROLLADOR_WEB]&textBg=false"/>
                   
                         
