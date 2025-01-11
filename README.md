@@ -29,3 +29,4 @@ Con un compromiso constante con la innovación y la mejora continua, estoy emoci
 | React           |<img width="48" height="48" src="https://img.icons8.com/officel/80/react.png" alt="react"/>|
 | Boostrap        |<img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>|
 | Wordpress       |<img width="48" height="48" src="https://img.icons8.com/color/48/wordpress.png" alt="wordpress"/>|
+(https://img.icons8.com/fluency/48/c-programming.png)
