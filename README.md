@@ -19,14 +19,5 @@ Con un compromiso constante con la innovación y la mejora continua, estoy emoci
 <p>Después de haber finalizado con éxito el de grado de profesionalidad en desarrollo web rama de informatica y comunicación, estoy en pleno proceso de actualización de conceptos y tecnologías. En comenzado una nueva etapa formativa en 42 Madrid, donde seguiré ampliando mis habilidades y conocimientos en el ámbito de la programación.</p>
 <h2>💬 Tecnologías</h2>
 
-|                 |                                                                                                                                   |
-| -------------   | ----------------------------------------------------------------------------------------------------------------------------------|
-| C // C++        |<img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>|
-| Python          |<img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="javascript"/>|
-| Javascript      |<img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>|
-| HTML5           |<img width="48" height="48" src="https://img.icons8.com/fluency/48/html-5.png" alt="html-5"/>
-| CSS3            |<img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>|
-| React           |<img width="48" height="48" src="https://img.icons8.com/officel/80/react.png" alt="react"/>|
-| Boostrap        |<img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>|
-| Wordpress       |<img width="48" height="48" src="https://img.icons8.com/color/48/wordpress.png" alt="wordpress"/>|
 
+C/C++  <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>Python  <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="javascript"/> Javascript <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/> HTML5 <img width="48" height="48" src="https://img.icons8.com/fluency/48/html-5.png" alt="html-5"/> CSS3 <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/> React <img width="48" height="48" src="https://img.icons8.com/officel/80/react.png" alt="react"/> Boostrap <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/> Wordpress <img width="48" height="48" src="https://img.icons8.com/color/48/wordpress.png" alt="wordpress"/>
