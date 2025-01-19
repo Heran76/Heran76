@@ -1,23 +1,19 @@
 ### Hello world 👋
 
 
-<img width=100% title="Desarrolloweb" alt="Desarrolloweb" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=[DESARROLLADOR_WEB]&textBg=false"/>
+<img width=100% title="Desarrolloweb" alt="Desarrolloweb" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=[WEB_DEVELOPER]&textBg=false"/>
                   
                         
 
 
-<h2>🔭 ¿Quién soy yo en pocas palabras?</h2>
-- Un apasionado del desarrollo web con un enfoque distintivo en la creación de experiencias funcionales. Mi dominio de las tecnologías clave como HTML, CSS y JavaScript se complementa con una sólida experiencia en la elaboración de proyectos de front-end que destacan por su excepcional usabilidad y diseño UX/UI.
+<h2>🔭 Who am I in a nutshell?</h2>
+-A passionate web developer with a distinctive focus on creating functional experiences. My expertise in core technologies like HTML, CSS, and JavaScript is complemented by solid experience in crafting front-end projects that stand out for their exceptional usability and UX/UI design.
+My ability to merge aesthetics with functionality is evident in my web design journey, where I've delivered projects that not only meet technical standards but also create meaningful user interactions. From conceptualization to implementation, my comprehensive approach ensures every detail contributes to a visually stunning and effective experience.
 
-Mi habilidad para fusionar la estética con la funcionalidad se refleja en mi trayectoria en diseño web, donde he llevado a cabo proyectos que no solo cumplen con estándares técnicos, sino que también crean interacciones significativas para el usuario. Desde la conceptualización hasta la implementación, mi enfoque integral abarca cada detalle para asegurar una experiencia visualmente atractiva y eficaz.
+Beyond my web development skills, I have experience in building and managing corporate branding. My vision extends beyond coding; I strive to create cohesive visual identities that reflect the essence of a brand and foster authentic connections with audiences.
 
-Además de mi destreza en el desarrollo web, tengo experiencia en la creación y gestión de la imagen corporativa. Mi visión va más allá de la codificación; me esfuerzo por construir identidades visuales coherentes que reflejen la esencia de la marca y generen una conexión auténtica con el público.
+With an unwavering commitment to innovation and continuous improvement, I’m excited to keep contributing to the world of web development and design, creating solutions that not only meet technical expectations but also elevate the aesthetic and functional quality of every project.
 
-Con un compromiso constante con la innovación y la mejora continua, estoy emocionado por seguir contribuyendo al mundo del desarrollo web y diseño, creando soluciones que no solo cumplen con las expectativas técnicas, sino que también elevan la calidad estética y funcional de cada proyecto.
-
-<h2>🌱En continua evolución</h2>
-<p>Después de haber finalizado con éxito el de grado de profesionalidad en desarrollo web rama de informatica y comunicación, estoy en pleno proceso de actualización de conceptos y tecnologías. En comenzado una nueva etapa formativa en 42 Madrid, donde seguiré ampliando mis habilidades y conocimientos en el ámbito de la programación.</p>
-<h2>💬 Tecnologías</h2>
-
-
+<h2>🌱 Always Evolving</h2> <p>Having successfully completed a professional certification in web development in the field of IT and communication, I’m currently in the process of updating my knowledge and skills. I’ve embarked on a new educational journey at 42 Madrid, where I’m expanding my expertise and diving deeper into the world of programming.</p> 
+<h2>💬 Technologies</h2>
 C/C++  <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>Python  <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="javascript"/> Javascript <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/> HTML5 <img width="48" height="48" src="https://img.icons8.com/fluency/48/html-5.png" alt="html-5"/> CSS3 <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/> React <img width="48" height="48" src="https://img.icons8.com/officel/80/react.png" alt="react"/> Boostrap <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/> Wordpress <img width="48" height="48" src="https://img.icons8.com/color/48/wordpress.png" alt="wordpress"/>
